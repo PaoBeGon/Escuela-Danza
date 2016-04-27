@@ -1,1 +1,140 @@
 /* Inserta tu codigo aqui */
+* {outline:1px solid rgba(255,0,0,0);}
+.menu{
+	list-style: none;
+	padding: 30px;
+	text-align: center;
+}
+.menu li{
+	display: inline-block;
+	padding-top: 25px;
+	color: rgb(83, 88, 95);
+}
+.menu a{
+	text-decoration: none;
+	margin-right: 90px;
+	color: #111;
+}
+.menu ul{
+	text-align: center;
+}
+.menu h3{
+	color: #192951;
+}
+.presentacion{
+	background: url("../img/dance_1.jpg") no-repeat;
+	background-size: cover;
+	background-position: top;
+	height: 380px;
+	padding-top: 60px;
+}
+.presentacion h1{
+	font-size: 50px;
+	padding-bottom: 15px;
+}
+.presentacion p{
+	font-size: 13px;
+	padding-bottom: 15px;
+}
+.contenido{
+	color: white;
+	margin-left: 82px;
+}
+button{
+	text-align: center;
+	border-radius: 5px;
+	list-style: none;
+	background-color: #192951;
+	padding: 8px;
+	margin: 10px;
+	border: 0px;
+}
+button a{
+	color: white;
+	text-decoration: none;
+
+}
+.oferta{
+	background: url("../img/textura_2.jpg") no-repeat;
+	background-size: cover;
+	text-align: center;
+}
+.oferta .centrado{
+	padding: 50px 300px;
+}
+
+.oferta p{
+	text-align: center;
+	font-size: 20px;
+}
+.oferta img{
+	width: 120px;
+	margin-top: -20px;
+}
+.oferta button{
+	margin-top: -20px;
+	padding: 5px 50px;
+
+}
+.instructor{
+	background: url("../img/instructor_4.jpg") no-repeat;
+	background-size: cover;
+	padding: 12%;
+}
+.profesor{
+	background: url("../img/profesor_9.jpg") no-repeat;
+	background-size: cover;
+	padding: 12%;
+}
+
+.instructores button{
+	padding: 15px 130px;
+	border-radius: 0;
+	position: relative;
+	top: -58px;
+	left: 430px;
+	font-size: 15px;
+}
+.concepto{
+	background: url("../img/textura_2.jpg") no-repeat;
+	background-size: cover;
+	text-align: center;
+	margin-top: -75px;
+}
+.concepto p{
+	font-size: 35px;
+	text-align: center;
+	padding: 7%;
+	margin-right: 140px;
+	margin-left: 140px;
+}
+.ubicacion{
+	background-color: #0B2161;
+	height: 400px;
+	padding-top: 50px; 
+	color: white;
+}
+.contactanos{
+	background: url("../img/shoes_!.jpg") no-repeat;
+	background-size: cover;
+	text-align: center;
+} 
+.contactanos h1{
+	margin-top: 50px;
+}
+.contactanos p{
+	border: 1px solid gray;
+	margin: 3% auto;
+	padding: 10px;
+}
+.contactanos label,input,textarea{
+	border: none;
+	margin: auto 5px;
+	font-size: 12px;
+}
+.contactanos button{
+	width: 100%;
+	padding: 15px;
+	border-radius: 5px;
+	margin: 5px;
+}
