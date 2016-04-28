@@ -8,7 +8,7 @@
 .fondo{
 	width: 550px;
 	height: 200px;
-	margin-top: 200px;
+	margin-top: 100px;
 	margin-bottom: 80px;
 	margin-left: 400px;
 	padding: 40px;
@@ -18,7 +18,7 @@
 	text-align: center;
 }
 .pilares{
-	padding: 50px 80px;
+	padding: 50px 50px;
 	background-image: url(../img/cubes.png);
 }
 .pilares .col-4{
