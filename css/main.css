@@ -93,3 +93,10 @@ button a{
 	padding-top: 50px; 
 	color: white;
 }
+.ubicacion p{
+	margin: 10px 120px;
+}
+.ubicacion h3{
+	margin-top: 35px;
+	margin-left: 120px;
+}
